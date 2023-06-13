@@ -1,5 +1,6 @@
 import Die from "./Die";
 import "./App.css";
+import "./RollDice.css";
 import RollDice from "./RollDice";
 
 function App() {
